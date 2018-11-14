@@ -28,7 +28,7 @@ public class ProyectoHospital {
     Telefono VARCHAR(50),
     Mail VARCHAR(50),
     )
-    
+    ---
     
     */
 }
